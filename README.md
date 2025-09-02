@@ -13,9 +13,10 @@
 
 # Circuit Diagram:
 
+<img width="1000" height="748" alt="image" src="https://github.com/user-attachments/assets/40d23004-e575-4260-9e4a-212944815473" />
 ---
-<img width="725" height="453" alt="image" src="https://github.com/user-attachments/assets/cfbff483-0abf-4bce-9639-4257d8eb43ee" />
---
+<img width="919" height="774" alt="image" src="https://github.com/user-attachments/assets/5dd220ef-1c69-4c0a-a68e-e3a343de688a" />
+---
 
 # Procedure // Modify the procedure based on your circuit
 
@@ -151,9 +152,9 @@ lcd.clear();
 }
 
 ```
+#OUTPUT
+
+
 
 # Result
-
----
-To upload
---
+FAN SPEED CONTROLLER SYSTEM USING TEMPERATURE SENSOR USING TINKERCAD EXECUTED SUCCESSfully.
