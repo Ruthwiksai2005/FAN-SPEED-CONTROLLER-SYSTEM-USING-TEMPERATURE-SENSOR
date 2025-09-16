@@ -152,6 +152,8 @@ lcd.clear();
 
 ```
 #OUTPUT
+https://github.com/user-attachments/assets/5a831ec2-c611-49dd-a6fb-2317009ff488
+
 
 
 # Result
